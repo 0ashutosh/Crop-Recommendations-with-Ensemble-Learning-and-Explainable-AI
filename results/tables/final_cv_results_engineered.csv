@@ -1,0 +1,5 @@
+,Mean Accuracy,Std Dev,95% CI Lower,95% CI Upper
+Decision Tree,0.852,0.0061,0.84,0.864
+Random Forest,0.8813,0.008,0.8656,0.897
+XGBoost,0.8738,0.0057,0.8627,0.8849
+Ensemble (RF+DT+XGB),0.8655,0.0066,0.8526,0.8784
